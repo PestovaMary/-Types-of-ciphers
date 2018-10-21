@@ -1,0 +1,26 @@
+A:\MS visual\Shifr\Shifr\bin\Debug\Shifr.exe.config
+A:\MS visual\Shifr\Shifr\bin\Debug\Shifr.exe
+A:\MS visual\Shifr\Shifr\bin\Debug\Shifr.pdb
+A:\MS visual\Shifr\Shifr\obj\Debug\Shifr.csprojResolveAssemblyReference.cache
+A:\MS visual\Shifr\Shifr\obj\Debug\Shifr.Properties.Resources.resources
+A:\MS visual\Shifr\Shifr\obj\Debug\Shifr.csproj.GenerateResource.Cache
+A:\MS visual\Shifr\Shifr\obj\Debug\Shifr.exe
+A:\MS visual\Shifr\Shifr\obj\Debug\Shifr.pdb
+A:\MS visual\Shifr\Shifr\obj\Debug\Shifr.MainMenu.resources
+A:\MS visual\Shifr\Shifr\obj\Debug\Shifr.Replacement.resources
+A:\MS visual\Shifr\Shifr\obj\Debug\Shifr.BlockCipherDecode.resources
+A:\MS visual\Shifr\Shifr\obj\Debug\Shifr.Caesar.resources
+A:\MS visual\Shifr\Shifr\obj\Debug\Shifr.XOR.resources
+C:\Users\B0dun\Desktop\Shifr\Shifr\bin\Debug\Shifr.exe.config
+C:\Users\B0dun\Desktop\Shifr\Shifr\obj\Debug\Shifr.exe
+C:\Users\B0dun\Desktop\Shifr\Shifr\obj\Debug\Shifr.pdb
+C:\Users\B0dun\Desktop\Shifr\Shifr\bin\Debug\Shifr.exe
+C:\Users\B0dun\Desktop\Shifr\Shifr\bin\Debug\Shifr.pdb
+C:\Users\B0dun\Desktop\Shifr\Shifr\obj\Debug\Shifr.csprojResolveAssemblyReference.cache
+C:\Users\B0dun\Desktop\Shifr\Shifr\obj\Debug\Shifr.BlockCipherDecode.resources
+C:\Users\B0dun\Desktop\Shifr\Shifr\obj\Debug\Shifr.Caesar.resources
+C:\Users\B0dun\Desktop\Shifr\Shifr\obj\Debug\Shifr.MainMenu.resources
+C:\Users\B0dun\Desktop\Shifr\Shifr\obj\Debug\Shifr.Properties.Resources.resources
+C:\Users\B0dun\Desktop\Shifr\Shifr\obj\Debug\Shifr.Replacement.resources
+C:\Users\B0dun\Desktop\Shifr\Shifr\obj\Debug\Shifr.XOR.resources
+C:\Users\B0dun\Desktop\Shifr\Shifr\obj\Debug\Shifr.csproj.GenerateResource.Cache
